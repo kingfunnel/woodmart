@@ -1,0 +1,14 @@
+{
+	"assets": [
+		{
+			"id": "image2",
+			"type": "external-image-url",
+			"src": "http://dev.xtemos.com/wood/wp-content/uploads/2022/02/chair-banner.jpg"
+		},
+		{
+			"id": "image1",
+			"type": "external-image",
+			"src": "http://dev.xtemos.com/wood/wp-content/uploads/2022/02/payment-icons.svg"
+		}
+	]
+}

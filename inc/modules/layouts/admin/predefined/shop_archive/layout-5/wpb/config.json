@@ -1,0 +1,9 @@
+{
+	"assets": [
+		{
+			"id": "image1",
+			"type": "external-image-url",
+			"src": "http://dev.xtemos.com/wood/wp-content/uploads/2022/02/w-b-p4-bg.jpg"
+		}
+	]
+}
